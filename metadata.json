@@ -1,0 +1,6 @@
+{
+  "name": "Harshita Blouse Creations",
+  "description": "Premium women's designer blouse stitching boutique in Kasba Bawada, Kolhapur. Bridal, Maggam, Paithani, Princess Cut, and custom handcrafted blouse designs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
